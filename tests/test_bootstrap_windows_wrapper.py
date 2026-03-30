@@ -112,6 +112,9 @@ class BootstrapWindowsWrapperTests(unittest.TestCase):
         wrapper = self._read_wrapper()
 
         self.assertIn('$env:GIT_SWEATY_BOOTSTRAP_GH_PATH = $GhPath', wrapper)
+        self.assertIn('Should-ForceInteractiveSetupAuth', wrapper)
+        self.assertIn('$env:GIT_SWEATY_BOOTSTRAP_FORCE_INTERACTIVE = "1"', wrapper)
+        self.assertIn('Remove-Item Env:GIT_SWEATY_BOOTSTRAP_FORCE_INTERACTIVE -ErrorAction SilentlyContinue', wrapper)
         self.assertIn('Push-Location $sourceRoot.FullName', wrapper)
         self.assertIn('& $PythonRuntime.Command @pythonArgs', wrapper)
         self.assertIn('if ($null -ne $LASTEXITCODE)', wrapper)

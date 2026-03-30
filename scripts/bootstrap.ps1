@@ -406,6 +406,15 @@ function Ensure-GhAuthenticated {
     }
 }
 
+function Should-ForceInteractiveSetupAuth {
+    $assumeYes = $null
+    if (-not [string]::IsNullOrWhiteSpace($env:GIT_SWEATY_BOOTSTRAP_ASSUME_YES)) {
+        $assumeYes = $env:GIT_SWEATY_BOOTSTRAP_ASSUME_YES.Trim().ToLowerInvariant()
+    }
+
+    return -not ($assumeYes -in @("1", "true", "yes", "y"))
+}
+
 function Get-SetupArgValue {
     param(
         [string[]]$SetupArgs,
@@ -665,6 +674,11 @@ function Invoke-OnlineSetup {
         Write-Info ""
         Write-Info "Launching online setup..."
         $env:GIT_SWEATY_BOOTSTRAP_GH_PATH = $GhPath
+        if (Should-ForceInteractiveSetupAuth) {
+            $env:GIT_SWEATY_BOOTSTRAP_FORCE_INTERACTIVE = "1"
+        } else {
+            Remove-Item Env:GIT_SWEATY_BOOTSTRAP_FORCE_INTERACTIVE -ErrorAction SilentlyContinue
+        }
         $ghDir = Split-Path -Path $GhPath -Parent
         if (-not [string]::IsNullOrWhiteSpace($ghDir)) {
             $pathEntries = @($env:Path -split ";" | Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
