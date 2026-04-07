@@ -18237,5 +18237,18 @@
     "start_date_local": "2026-04-05T10:08:49Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 5453.2,
+    "elevation_gain": 142.0,
+    "id": "18012175853",
+    "moving_time": 2466.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-07T07:33:28Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
