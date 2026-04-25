@@ -18406,5 +18406,18 @@
     "start_date_local": "2026-04-24T07:36:48Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18252153360",
+    "moving_time": 3152.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-25T08:31:19Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
