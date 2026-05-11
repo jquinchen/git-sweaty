@@ -97,4 +97,4 @@ units:
   elevation: "m"  # "ft" or "m"
 
 heatmaps:
-  week_start: "monday" # "sunday" or "monday"
+  week_start: "lunes" # "sunday" or "monday"
