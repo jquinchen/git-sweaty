@@ -3393,7 +3393,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T11:44:53.347308+00:00",
+  "generated_at": "2026-05-11T11:50:56.209008+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
@@ -3447,10 +3447,10 @@
     "breathwork"
   ],
   "units": {
-    "distance": "mi",
-    "elevation": "ft"
+    "distance": "km",
+    "elevation": "m"
   },
-  "week_start": "sunday",
+  "week_start": "monday",
   "years": [
     2025,
     2026
