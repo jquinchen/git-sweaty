@@ -13,7 +13,7 @@ const TYPE_LABEL_OVERRIDES = {
 let TYPE_META = {};
 let OTHER_BUCKET = "OtherSports";
 
-const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+const MONTHS = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 const WEEK_START_SUNDAY = "sunday";
 const WEEK_START_MONDAY = "monday";
