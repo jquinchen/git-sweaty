@@ -3936,7 +3936,7 @@ function buildStatsOverview(payload, types, years, color, options = {}) {
   const dayDisplayLabels = dayLabels.map((label, index) => (
     index === 0 || index === 3 || index === 6 ? label : ""
   ));
-  const monthDisplayLabels = ["Jan", "", "Mar", "", "May", "", "Jul", "", "Sep", "", "Nov", ""];
+  const monthDisplayLabels = ["Ene", "", "Mar", "", "May", "", "Jul", "", "Sep", "", "Nov", ""];
 
   const buildZeroedMatrix = (columns) => visibleYearsDesc.map(() => new Array(columns).fill(0));
   const buildBreakdownMatrix = (columns) => visibleYearsDesc.map(() => (
