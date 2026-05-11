@@ -3393,7 +3393,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T11:50:56.209008+00:00",
+  "generated_at": "2026-05-11T12:03:30.261207+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
@@ -3450,7 +3450,7 @@
     "distance": "km",
     "elevation": "m"
   },
-  "week_start": "monday",
+  "week_start": "sunday",
   "years": [
     2025,
     2026
