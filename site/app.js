@@ -13,13 +13,13 @@ const TYPE_LABEL_OVERRIDES = {
 let TYPE_META = {};
 let OTHER_BUCKET = "OtherSports";
 
-const MONTHS = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-const WEEK_START_SUNDAY = "sunday";
-const WEEK_START_MONDAY = "monday";
+const MONTHS = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"];
+const DAYS = ["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"];
+const WEEK_START_SUNDAY = "domingo";
+const WEEK_START_MONDAY = "lunes";
 const WEEKDAY_LABELS_BY_WEEK_START = Object.freeze({
-  [WEEK_START_SUNDAY]: Object.freeze(["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]),
-  [WEEK_START_MONDAY]: Object.freeze(["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]),
+  [WEEK_START_SUNDAY]: Object.freeze(["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"]),
+  [WEEK_START_MONDAY]: Object.freeze(["Lun", "Mar", "Mie", "Jue", "Vie", "Sab", "Dom"]),
 });
 const MS_PER_DAY = 1000 * 60 * 60 * 24;
 const ACTIVE_DAYS_METRIC_KEY = "active_days";
