@@ -3001,5 +3001,70 @@
     "start_date_local": "2026-05-08T06:03:36",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 336.45001220703125,
+    "elevation_gain": 0.0,
+    "id": "22813246525",
+    "moving_time": 463.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-08T18:28:37",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22813952481",
+    "moving_time": 310.2019958496094,
+    "name": "Relajaci\u00f3n y concentraci\u00f3n",
+    "raw_activity_type": "breathwork",
+    "raw_type": "breathwork",
+    "start_date_local": "2026-05-08T20:38:02",
+    "type": "breathwork",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 2450.0,
+    "elevation_gain": 0.0,
+    "id": "22818625231",
+    "moving_time": 3907.091064453125,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-09T06:04:15",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "22827182057",
+    "moving_time": 1541.2509765625,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-09T20:02:57",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 1011.6099853515625,
+    "elevation_gain": 0.0,
+    "id": "22836728892",
+    "moving_time": 1433.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-10T16:25:29",
+    "type": "Swim",
+    "year": 2026
   }
 ]

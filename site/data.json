@@ -1616,6 +1616,41 @@
       "subtype": "lap_swimming",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 18,
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 20,
+      "subtype": "breathwork",
+      "type": "breathwork",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 6,
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 20,
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 16,
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3118,12 +3153,32 @@
         },
         "2026-05-08": {
           "activity_ids": [
-            "22806999453"
+            "22806999453",
+            "22813246525"
+          ],
+          "count": 2,
+          "distance": 3461.4500122070312,
+          "elevation_gain": 0.0,
+          "moving_time": 4703.43115234375
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "22818625231",
+            "22827182057"
+          ],
+          "count": 2,
+          "distance": 3450.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5448.342041015625
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "22836728892"
           ],
           "count": 1,
-          "distance": 3125.0,
+          "distance": 1011.6099853515625,
           "elevation_gain": 0.0,
-          "moving_time": 4240.43115234375
+          "moving_time": 1433.0
         }
       },
       "TableTennis": {
@@ -3278,6 +3333,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 238.29400634765625
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "22813952481"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 310.2019958496094
         }
       },
       "stand_up_paddleboarding_v2": {
@@ -3329,7 +3393,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T17:08:29.127428+00:00",
+  "generated_at": "2026-05-11T11:44:53.347308+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
