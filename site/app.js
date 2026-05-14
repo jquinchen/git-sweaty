@@ -7,8 +7,37 @@ const FALLBACK_VAPORWAVE = ["#f15bb5", "#fee440", "#00bbf9", "#00f5d4", "#9b5de5
 const STAT_PLACEHOLDER = "- - -";
 const CREATOR_REPO_SLUG = "aspain/git-sweaty";
 const TYPE_LABEL_OVERRIDES = {
-  HighIntensityIntervalTraining: "HITT",
-  Workout: "Other Workout",
+  HighIntensityIntervalTraining: "HIIT",
+  Workout: "Entrenamiento",
+  Run: "Carrera",
+  Ride: "Ciclismo",
+  Swim: "Natación",
+  Walk: "Caminata",
+  Hike: "Senderismo",
+  WeightTraining: "Levantamiento de Pesas",
+  Yoga: "Yoga",
+  VirtualRide: "Ciclismo Virtual",
+  VirtualRun: "Carrera Virtual",
+  GravelRide: "Ciclismo de Grava",
+  EBikeRide: "E-Bike",
+  AlpineSki: "Esquí Alpino",
+  BackcountrySki: "Esquí de Travesía",
+  IceSkate: "Patinaje sobre Hielo",
+  InlineSkate: "Patinaje en Línea",
+  Kitesurf: "Kitesurf",
+  RollerSki: "Esquí sobre Ruedas",
+  Snowboard: "Snowboard",
+  Snowshoe: "Raquetas de Nieve",
+  StandUpPaddling: "Paddle Surf",
+  Surfing: "Surf",
+  Windsurf: "Windsurf",
+  Rowing: "Remo",
+  Canoeing: "Piragüismo",
+  Kayaking: "Kayak",
+  Crossfit: "CrossFit",
+  Elliptical: "Elíptica",
+  RockClimbing: "Escalada",
+  StairStepper: "Escaladora",
 };
 let TYPE_META = {};
 let OTHER_BUCKET = "OtherSports";
@@ -2329,7 +2358,7 @@ function formatActivityCountLabel(count, types = []) {
     const nouns = getTypeCountNouns(types[0]);
     return `${count} ${count === 1 ? nouns.singular : nouns.plural}`;
   }
-  return `${count} ${count === 1 ? "Activity" : "Activities"}`;
+  return `${count} ${count === 1 ? "Actividad" : "Actividades"}`;
 }
 
 function fallbackColor(type) {
@@ -2393,7 +2422,7 @@ function buildYearMetricStatItems(totals, units) {
   return [
     {
       key: "distance",
-      label: "Total Distance",
+      label: "Distancia Total",
       value: totals.distance > 0
         ? formatDistance(totals.distance, units || { distance: "mi" })
         : STAT_PLACEHOLDER,
@@ -2401,13 +2430,13 @@ function buildYearMetricStatItems(totals, units) {
     },
     {
       key: "moving_time",
-      label: "Total Time",
+      label: "Tiempo Total",
       value: formatDuration(totals.moving_time),
       filterable: totals.moving_time > 0,
     },
     {
       key: "elevation_gain",
-      label: "Total Elevation",
+      label: "Elevación Total",
       value: totals.elevation > 0
         ? formatElevation(totals.elevation, units || { elevation: "ft" })
         : STAT_PLACEHOLDER,
@@ -2417,16 +2446,16 @@ function buildYearMetricStatItems(totals, units) {
 }
 
 const FREQUENCY_METRIC_ITEMS = [
-  { key: "distance", label: "Distance" },
-  { key: "moving_time", label: "Time" },
-  { key: "elevation_gain", label: "Elevation" },
+  { key: "distance", label: "Distancia" },
+  { key: "moving_time", label: "Tiempo" },
+  { key: "elevation_gain", label: "Elevación" },
 ];
 const METRIC_LABEL_BY_KEY = Object.freeze({
-  [ACTIVE_DAYS_METRIC_KEY]: "Active Days",
-  [DAYS_OFF_METRIC_KEY]: "Days Off",
-  distance: "Distance",
-  moving_time: "Time",
-  elevation_gain: "Elevation",
+  [ACTIVE_DAYS_METRIC_KEY]: "Días Activos",
+  [DAYS_OFF_METRIC_KEY]: "Días Libres",
+  distance: "Distancia",
+  moving_time: "Tiempo",
+  elevation_gain: "Elevación",
 });
 
 const FREQUENCY_METRIC_UNAVAILABLE_REASON_BY_KEY = {
