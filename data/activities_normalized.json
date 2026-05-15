@@ -3118,5 +3118,31 @@
     "start_date_local": "2026-05-13T21:01:23",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 4000.0,
+    "elevation_gain": 0.0,
+    "id": "22888248494",
+    "moving_time": 5485.5029296875,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-15T06:03:06",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 88.5999984741211,
+    "elevation_gain": 0.0,
+    "id": "22890107593",
+    "moving_time": 134.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-15T10:10:30",
+    "type": "Swim",
+    "year": 2026
   }
 ]
