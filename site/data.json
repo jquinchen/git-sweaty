@@ -2177,6 +2177,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/22890107593",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 14,
+      "name": "G\u00fcer Aike Nataci\u00f3n en aguas abiertas",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/22904452434",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3735,6 +3744,15 @@
           "distance": 4088.599998474121,
           "elevation_gain": 0.0,
           "moving_time": 5619.5029296875
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "22904452434"
+          ],
+          "count": 1,
+          "distance": 216.02999877929688,
+          "elevation_gain": 0.0,
+          "moving_time": 322.0
         }
       },
       "TableTennis": {
@@ -3949,7 +3967,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T13:24:55.453221+00:00",
+  "generated_at": "2026-05-16T19:06:53.818111+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

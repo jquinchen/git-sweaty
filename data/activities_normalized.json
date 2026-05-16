@@ -3144,5 +3144,18 @@
     "start_date_local": "2026-05-15T10:10:30",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 216.02999877929688,
+    "elevation_gain": 0.0,
+    "id": "22904452434",
+    "moving_time": 322.0,
+    "name": "G\u00fcer Aike Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-16T14:19:35",
+    "type": "Swim",
+    "year": 2026
   }
 ]
