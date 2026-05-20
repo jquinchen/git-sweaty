@@ -2222,6 +2222,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22930226631",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 21,
+      "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/22942474860",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 6,
+      "name": "Entrenamiento Ritmo 2026",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/22946274058",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3816,6 +3834,24 @@
           "distance": 3050.0,
           "elevation_gain": 0.0,
           "moving_time": 4383.34423828125
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "22942474860"
+          ],
+          "count": 1,
+          "distance": 116.2300033569336,
+          "elevation_gain": 0.0,
+          "moving_time": 144.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "22946274058"
+          ],
+          "count": 1,
+          "distance": 3050.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4405.7158203125
         }
       },
       "TableTennis": {
@@ -4039,7 +4075,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T00:08:05.018853+00:00",
+  "generated_at": "2026-05-20T15:23:39.041184+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
