@@ -3261,5 +3261,18 @@
     "start_date_local": "2026-05-21T13:05:16",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 3108.919921875,
+    "elevation_gain": 3.0,
+    "id": "22966358990",
+    "moving_time": 2715.0,
+    "name": "Punta Arenas Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-21T20:57:11",
+    "type": "Walk",
+    "year": 2026
   }
 ]
