@@ -2303,6 +2303,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/22994707190",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 20,
+      "name": "Ciclismo en sala",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/23013650846",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3958,6 +3967,17 @@
           "moving_time": 905.448974609375
         }
       },
+      "VirtualRide": {
+        "2026-05-25": {
+          "activity_ids": [
+            "23013650846"
+          ],
+          "count": 1,
+          "distance": 18290.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3605.444091796875
+        }
+      },
       "Walk": {
         "2026-01-27": {
           "activity_ids": [
@@ -4177,7 +4197,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T00:07:16.377195+00:00",
+  "generated_at": "2026-05-26T15:33:00.371776+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
@@ -4202,6 +4222,10 @@
       "accent": "#fee440",
       "label": "Table Tennis"
     },
+    "VirtualRide": {
+      "accent": "#fee440",
+      "label": "Virtual Ride"
+    },
     "Walk": {
       "accent": "#d6ff6b",
       "label": "Walk"
@@ -4225,6 +4249,7 @@
     "Run",
     "Swim",
     "TableTennis",
+    "VirtualRide",
     "Walk",
     "Yoga",
     "stand_up_paddleboarding_v2",
