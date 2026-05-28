@@ -3352,5 +3352,31 @@
     "start_date_local": "2026-05-27T06:04:37",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "23038446941",
+    "moving_time": 2070.375,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-27T21:04:47",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 950.0,
+    "elevation_gain": 0.0,
+    "id": "23041861820",
+    "moving_time": 1395.759033203125,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-28T06:03:30",
+    "type": "Swim",
+    "year": 2026
   }
 ]
