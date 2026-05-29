@@ -3378,5 +3378,18 @@
     "start_date_local": "2026-05-28T06:03:30",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 20030.0,
+    "elevation_gain": 0.0,
+    "id": "23049836495",
+    "moving_time": 3914.202880859375,
+    "name": "Ciclismo en sala",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-05-28T18:57:00",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
