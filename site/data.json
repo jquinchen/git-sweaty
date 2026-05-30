@@ -2375,6 +2375,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23061287343",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 21,
+      "name": "Ciclismo en sala",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/23061585953",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4086,6 +4095,15 @@
           "distance": 20030.0,
           "elevation_gain": 0.0,
           "moving_time": 3914.202880859375
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "23061585953"
+          ],
+          "count": 1,
+          "distance": 12100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2043.3590087890625
         }
       },
       "Walk": {
@@ -4307,7 +4325,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T00:10:45.448852+00:00",
+  "generated_at": "2026-05-30T13:40:56.166086+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
