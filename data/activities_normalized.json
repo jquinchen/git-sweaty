@@ -3404,5 +3404,31 @@
     "start_date_local": "2026-05-29T06:02:10",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 5068.81982421875,
+    "elevation_gain": 14.0,
+    "id": "23060976615",
+    "moving_time": 2814.968994140625,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-29T19:10:09",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 107.3499984741211,
+    "elevation_gain": 0.0,
+    "id": "23061287343",
+    "moving_time": 186.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-29T20:32:12",
+    "type": "Swim",
+    "year": 2026
   }
 ]
