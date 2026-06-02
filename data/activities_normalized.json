@@ -3469,5 +3469,18 @@
     "start_date_local": "2026-05-31T09:31:59",
     "type": "stand_up_paddleboarding_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 5015.31982421875,
+    "elevation_gain": 43.0,
+    "id": "23096958215",
+    "moving_time": 2576.3909912109375,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-01T19:13:34",
+    "type": "Run",
+    "year": 2026
   }
 ]
