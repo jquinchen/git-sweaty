@@ -3560,5 +3560,18 @@
     "start_date_local": "2026-06-04T09:22:21",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 2175.0,
+    "elevation_gain": 0.0,
+    "id": "23137735375",
+    "moving_time": 3427.471923828125,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-05T06:00:28",
+    "type": "Swim",
+    "year": 2026
   }
 ]
