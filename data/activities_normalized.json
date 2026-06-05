@@ -3573,5 +3573,31 @@
     "start_date_local": "2026-06-05T06:00:28",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23140779268",
+    "moving_time": 1419.4560546875,
+    "name": "Movilidad",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-05T11:40:57",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 6007.1201171875,
+    "elevation_gain": 23.0,
+    "id": "23143629693",
+    "moving_time": 3158.677001953125,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-05T15:43:26",
+    "type": "Run",
+    "year": 2026
   }
 ]
