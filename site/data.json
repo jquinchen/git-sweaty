@@ -2487,7 +2487,7 @@
     {
       "date": "2026-06-05",
       "hour": 15,
-      "name": "Punta Arenas Carrera",
+      "name": "Punta Arenas Carrera - Zona 2",
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23143629693",
@@ -4541,7 +4541,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T19:56:45.475087+00:00",
+  "generated_at": "2026-06-06T00:07:16.616317+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
