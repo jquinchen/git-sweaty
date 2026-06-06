@@ -3599,5 +3599,18 @@
     "start_date_local": "2026-06-05T15:43:26",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 620.3699951171875,
+    "elevation_gain": 0.0,
+    "id": "23153690891",
+    "moving_time": 1032.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-06-06T12:33:24",
+    "type": "Swim",
+    "year": 2026
   }
 ]
