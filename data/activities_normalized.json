@@ -3664,5 +3664,31 @@
     "start_date_local": "2026-06-07T14:11:14",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 20000.0,
+    "elevation_gain": 0.0,
+    "id": "23175192594",
+    "moving_time": 3539.798095703125,
+    "name": "Ciclismo en sala",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-06-08T09:44:00",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23176200798",
+    "moving_time": 1522.06103515625,
+    "name": "Movilidad",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-08T11:55:19",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
