@@ -3690,5 +3690,31 @@
     "start_date_local": "2026-06-08T11:55:19",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 1775.0,
+    "elevation_gain": 0.0,
+    "id": "23185463796",
+    "moving_time": 2785.4619140625,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-09T06:01:38",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23188051095",
+    "moving_time": 2085.64892578125,
+    "name": "Movilidad",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-09T10:55:29",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

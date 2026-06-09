@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:07:29.410211+00:00",
+  "generated_at": "2026-06-09T14:54:10.131841+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1751,6 +1751,15 @@
           "distance": 2295.3699951171875,
           "elevation_gain": 0.0,
           "moving_time": 3875.93505859375
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "23185463796"
+          ],
+          "count": 1,
+          "distance": 1775.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2785.4619140625
         }
       },
       "TableTennis": {
@@ -2013,6 +2022,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1522.06103515625
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "23188051095"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2085.64892578125
         }
       },
       "breathwork": {
