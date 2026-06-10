@@ -3729,5 +3729,18 @@
     "start_date_local": "2026-06-09T16:05:34",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 4125.9599609375,
+    "elevation_gain": 71.0,
+    "id": "23193943902",
+    "moving_time": 2097.0,
+    "name": "Carrera - T\u00e9cnica Trail + Subidas",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-09T19:31:24",
+    "type": "Run",
+    "year": 2026
   }
 ]
