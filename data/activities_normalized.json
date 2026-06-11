@@ -3768,5 +3768,57 @@
     "start_date_local": "2026-06-10T18:26:15",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "23206436121",
+    "moving_time": 1574.72802734375,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-10T21:01:59",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 1950.0,
+    "elevation_gain": 0.0,
+    "id": "23209674262",
+    "moving_time": 3008.554931640625,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-11T06:01:28",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 18760.0,
+    "elevation_gain": 0.0,
+    "id": "23211844292",
+    "moving_time": 3091.345947265625,
+    "name": "Ciclismo en sala",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-06-11T09:29:00",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23212327441",
+    "moving_time": 1650.781005859375,
+    "name": "Movilidad",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-11T11:04:11",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
