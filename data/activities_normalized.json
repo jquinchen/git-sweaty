@@ -3820,5 +3820,31 @@
     "start_date_local": "2026-06-11T11:04:11",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 441.8399963378906,
+    "elevation_gain": 0.0,
+    "id": "23217508534",
+    "moving_time": 305.0,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-11T19:39:32",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23217509037",
+    "moving_time": 1448.7230224609375,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-11T19:49:59",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

@@ -2645,6 +2645,24 @@
       "type": "Yoga",
       "url": "https://connect.garmin.com/modern/activity/23212327441",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 19,
+      "name": "Punta Arenas Carrera",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23217508534",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 19,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/23217509037",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3343,6 +3361,15 @@
           "distance": 4125.9599609375,
           "elevation_gain": 71.0,
           "moving_time": 2097.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "23217508534"
+          ],
+          "count": 1,
+          "distance": 441.8399963378906,
+          "elevation_gain": 0.0,
+          "moving_time": 305.0
         }
       },
       "Swim": {
@@ -4644,6 +4671,17 @@
           "moving_time": 2715.0
         }
       },
+      "WeightTraining": {
+        "2026-06-11": {
+          "activity_ids": [
+            "23217509037"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1448.7230224609375
+        }
+      },
       "Yoga": {
         "2026-02-05": {
           "activity_ids": [
@@ -4823,7 +4861,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T20:23:33.371095+00:00",
+  "generated_at": "2026-06-12T00:20:07.823261+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
@@ -4856,6 +4894,10 @@
       "accent": "#d6ff6b",
       "label": "Walk"
     },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    },
     "Yoga": {
       "accent": "#f15bb5",
       "label": "Yoga"
@@ -4877,6 +4919,7 @@
     "TableTennis",
     "VirtualRide",
     "Walk",
+    "WeightTraining",
     "Yoga",
     "stand_up_paddleboarding_v2",
     "breathwork"
