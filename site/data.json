@@ -2681,6 +2681,24 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/23223183051",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 14,
+      "name": "Punta Arenas Caminar",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23226066059",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 15,
+      "name": "Club Andino Centro de Ski Snowboard",
+      "subtype": "resort_snowboarding",
+      "type": "resort_snowboarding",
+      "url": "https://connect.garmin.com/modern/activity/23226804614",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4705,6 +4723,15 @@
           "distance": 3108.919921875,
           "elevation_gain": 3.0,
           "moving_time": 2715.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "23226066059"
+          ],
+          "count": 1,
+          "distance": 1003.3699951171875,
+          "elevation_gain": 132.0,
+          "moving_time": 819.0
         }
       },
       "WeightTraining": {
@@ -4839,6 +4866,17 @@
           "moving_time": 310.2019958496094
         }
       },
+      "resort_snowboarding": {
+        "2026-06-12": {
+          "activity_ids": [
+            "23226804614"
+          ],
+          "count": 1,
+          "distance": 1252.550048828125,
+          "elevation_gain": 23.0,
+          "moving_time": 1197.0
+        }
+      },
       "stand_up_paddleboarding_v2": {
         "2026-01-13": {
           "activity_ids": [
@@ -4897,7 +4935,7 @@
       }
     }
   },
-  "generated_at": "2026-06-12T15:17:37.740089+00:00",
+  "generated_at": "2026-06-12T20:12:37.271564+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
@@ -4942,6 +4980,10 @@
       "accent": "#ffbe0b",
       "label": "Breathwork"
     },
+    "resort_snowboarding": {
+      "accent": "#ffbe0b",
+      "label": "Resort snowboarding"
+    },
     "stand_up_paddleboarding_v2": {
       "accent": "#00f5d4",
       "label": "Stand up paddleboarding v2"
@@ -4958,7 +5000,8 @@
     "WeightTraining",
     "Yoga",
     "stand_up_paddleboarding_v2",
-    "breathwork"
+    "breathwork",
+    "resort_snowboarding"
   ],
   "units": {
     "distance": "km",

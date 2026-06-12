@@ -3872,5 +3872,31 @@
     "start_date_local": "2026-06-12T09:55:31",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 1003.3699951171875,
+    "elevation_gain": 132.0,
+    "id": "23226066059",
+    "moving_time": 819.0,
+    "name": "Punta Arenas Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-12T14:35:42",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 1252.550048828125,
+    "elevation_gain": 23.0,
+    "id": "23226804614",
+    "moving_time": 1197.0,
+    "name": "Club Andino Centro de Ski Snowboard",
+    "raw_activity_type": "resort_snowboarding",
+    "raw_type": "resort_snowboarding",
+    "start_date_local": "2026-06-12T15:34:14",
+    "type": "resort_snowboarding",
+    "year": 2026
   }
 ]
