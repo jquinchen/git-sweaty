@@ -3846,5 +3846,31 @@
     "start_date_local": "2026-06-11T19:49:59",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 2800.0,
+    "elevation_gain": 0.0,
+    "id": "23221197182",
+    "moving_time": 4322.701171875,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-12T06:02:28",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 13535.0302734375,
+    "elevation_gain": 847.0,
+    "id": "23223183051",
+    "moving_time": 3051.0,
+    "name": "Zwift - Climb Portal: Pla d'Adet at 100% Elevation in Watopia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-06-12T09:55:31",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
