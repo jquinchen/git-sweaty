@@ -2699,6 +2699,15 @@
       "type": "resort_snowboarding",
       "url": "https://connect.garmin.com/modern/activity/23226804614",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 15,
+      "name": "Punta Arenas Caminar",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23238197863",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4732,6 +4741,15 @@
           "distance": 1003.3699951171875,
           "elevation_gain": 132.0,
           "moving_time": 819.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "23238197863"
+          ],
+          "count": 1,
+          "distance": 919.010009765625,
+          "elevation_gain": 135.0,
+          "moving_time": 1033.0
         }
       },
       "WeightTraining": {
@@ -4935,7 +4953,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T14:01:43.584364+00:00",
+  "generated_at": "2026-06-13T19:27:07.540758+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

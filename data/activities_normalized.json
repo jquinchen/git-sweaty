@@ -3898,5 +3898,18 @@
     "start_date_local": "2026-06-12T15:34:14",
     "type": "resort_snowboarding",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 919.010009765625,
+    "elevation_gain": 135.0,
+    "id": "23238197863",
+    "moving_time": 1033.0,
+    "name": "Punta Arenas Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-13T15:04:38",
+    "type": "Walk",
+    "year": 2026
   }
 ]
