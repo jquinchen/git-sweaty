@@ -3911,5 +3911,31 @@
     "start_date_local": "2026-06-13T15:04:38",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 2574.949951171875,
+    "elevation_gain": 241.0,
+    "id": "23239220462",
+    "moving_time": 2442.0,
+    "name": "Club Andino Centro de Ski Snowboard",
+    "raw_activity_type": "resort_snowboarding",
+    "raw_type": "resort_snowboarding",
+    "start_date_local": "2026-06-13T15:51:52",
+    "type": "resort_snowboarding",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 1650.0,
+    "elevation_gain": 0.0,
+    "id": "23240025236",
+    "moving_time": 2159.72509765625,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-13T20:02:43",
+    "type": "Swim",
+    "year": 2026
   }
 ]
