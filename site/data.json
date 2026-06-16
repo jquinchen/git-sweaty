@@ -2753,6 +2753,24 @@
       "type": "Yoga",
       "url": "https://connect.garmin.com/modern/activity/23257560963",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 6,
+      "name": "Nataci\u00f3n en piscina",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23267481985",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 9,
+      "name": "Movilidad Hombros",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/23269190884",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4571,6 +4589,15 @@
           "distance": 1650.0,
           "elevation_gain": 0.0,
           "moving_time": 2159.72509765625
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "23267481985"
+          ],
+          "count": 1,
+          "distance": 2400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3586.79296875
         }
       },
       "TableTennis": {
@@ -4926,6 +4953,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2632.679931640625
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "23269190884"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2267.423095703125
         }
       },
       "breathwork": {
@@ -5035,7 +5071,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T01:41:45.118282+00:00",
+  "generated_at": "2026-06-16T16:54:41.379746+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
