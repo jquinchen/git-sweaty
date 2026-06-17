@@ -4002,5 +4002,18 @@
     "start_date_local": "2026-06-16T09:07:53",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 3730.0,
+    "elevation_gain": 0.0,
+    "id": "23276350932",
+    "moving_time": 1643.2449951171875,
+    "name": "Punta Arenas Entrenamiento en pista",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-06-16T19:34:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
