@@ -2843,6 +2843,33 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23304448603",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 15,
+      "name": "Movilidad",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/23321112528",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 17,
+      "name": "Punta Arenas - EFICIENCIA AER\u00d3BICA",
+      "subtype": "track_running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23321876293",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 20,
+      "name": "Nataci\u00f3n en piscina",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23322602617",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3568,6 +3595,15 @@
           "distance": 840.0,
           "elevation_gain": 11.0,
           "moving_time": 476.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "23321876293"
+          ],
+          "count": 1,
+          "distance": 9610.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4875.8840000629425
         }
       },
       "Swim": {
@@ -4707,6 +4743,15 @@
           "distance": 3000.0,
           "elevation_gain": 0.0,
           "moving_time": 4317.27978515625
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "23322602617"
+          ],
+          "count": 1,
+          "distance": 1400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2190.551025390625
         }
       },
       "TableTennis": {
@@ -5098,6 +5143,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1363.2010498046875
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "23321112528"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3434.93408203125
         }
       },
       "breathwork": {
@@ -5207,7 +5261,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T19:27:47.160946+00:00",
+  "generated_at": "2026-06-21T00:08:07.161848+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
