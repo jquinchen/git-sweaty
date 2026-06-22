@@ -4158,5 +4158,18 @@
     "start_date_local": "2026-06-21T10:30:00",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23333191468",
+    "moving_time": 1776.39794921875,
+    "name": "Movilidad Hombros",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-21T16:56:59",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
