@@ -2888,6 +2888,15 @@
       "type": "Yoga",
       "url": "https://connect.garmin.com/modern/activity/23333191468",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 6,
+      "name": "Entrenamiento Martes 23 Junio",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23349557841",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4779,6 +4788,15 @@
           "distance": 1400.0,
           "elevation_gain": 0.0,
           "moving_time": 2190.551025390625
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "23349557841"
+          ],
+          "count": 1,
+          "distance": 2250.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3414.156982421875
         }
       },
       "TableTennis": {
@@ -5297,7 +5315,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T00:07:36.417270+00:00",
+  "generated_at": "2026-06-23T14:51:05.592616+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

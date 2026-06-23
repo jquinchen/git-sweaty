@@ -4171,5 +4171,18 @@
     "start_date_local": "2026-06-21T16:56:59",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 2250.0,
+    "elevation_gain": 0.0,
+    "id": "23349557841",
+    "moving_time": 3414.156982421875,
+    "name": "Entrenamiento Martes 23 Junio",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-23T06:00:52",
+    "type": "Swim",
+    "year": 2026
   }
 ]
