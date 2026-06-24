@@ -4184,5 +4184,18 @@
     "start_date_local": "2026-06-23T06:00:52",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 3050.0,
+    "elevation_gain": 0.0,
+    "id": "23362026444",
+    "moving_time": 4473.4609375,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-24T06:00:06",
+    "type": "Swim",
+    "year": 2026
   }
 ]
