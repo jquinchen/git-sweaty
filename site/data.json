@@ -2924,6 +2924,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23373409987",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 19,
+      "name": "Punta Arenas Carrera",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23380227518",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 19,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/23380348337",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3667,6 +3685,15 @@
           "distance": 8334.1298828125,
           "elevation_gain": 46.0,
           "moving_time": 4203.782989501953
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "23380227518"
+          ],
+          "count": 1,
+          "distance": 890.1599731445312,
+          "elevation_gain": 15.0,
+          "moving_time": 453.0
         }
       },
       "Swim": {
@@ -5096,6 +5123,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1355.5479736328125
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "23380348337"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 491.302001953125
         }
       },
       "Yoga": {
@@ -5361,7 +5397,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T20:02:06.138675+00:00",
+  "generated_at": "2026-06-26T00:10:35.953077+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
