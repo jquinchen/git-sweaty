@@ -2987,6 +2987,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23399822122",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 9,
+      "name": "Yoga",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/23407556578",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5370,6 +5379,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1776.39794921875
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "23407556578"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1394.467041015625
         }
       },
       "breathwork": {
@@ -5479,7 +5497,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T00:03:26.652658+00:00",
+  "generated_at": "2026-06-28T13:48:14.453257+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
