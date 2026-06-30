@@ -3005,6 +3005,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23408475634",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 13,
+      "name": "Movilidad",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/23431962926",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5406,6 +5415,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1394.467041015625
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "23431962926"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1417.2840576171875
         }
       },
       "breathwork": {
@@ -5515,7 +5533,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T14:20:47.553974+00:00",
+  "generated_at": "2026-06-30T20:00:04.465323+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
