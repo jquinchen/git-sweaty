@@ -4366,5 +4366,31 @@
     "start_date_local": "2026-06-30T19:00:19",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 2730.0,
+    "elevation_gain": 0.0,
+    "id": "23436380386",
+    "moving_time": 1644.0,
+    "name": "Carrera en pista",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-06-30T20:50:33",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 3150.0,
+    "elevation_gain": 0.0,
+    "id": "23440150553",
+    "moving_time": 4131.5498046875,
+    "name": "Entrenamiento Mi\u00e9rcoles 01Julio",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-07-01T06:03:56",
+    "type": "Swim",
+    "year": 2026
   }
 ]
