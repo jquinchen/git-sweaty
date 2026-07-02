@@ -4418,5 +4418,18 @@
     "start_date_local": "2026-07-02T05:48:44",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23455468363",
+    "moving_time": 1379.5560302734375,
+    "name": "Movilidad",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-07-02T13:05:48",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
