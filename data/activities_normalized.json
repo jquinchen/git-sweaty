@@ -4392,5 +4392,31 @@
     "start_date_local": "2026-07-01T06:03:56",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 16496.5,
+    "elevation_gain": 46.0,
+    "id": "23448594197",
+    "moving_time": 1808.0,
+    "name": "Adliswil Ciclismo virtual",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-01T21:50:12",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 2600.0,
+    "elevation_gain": 0.0,
+    "id": "23451389602",
+    "moving_time": 3423.93994140625,
+    "name": "Entrenamiento Jueves 02Julio",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-07-02T05:48:44",
+    "type": "Swim",
+    "year": 2026
   }
 ]

@@ -3041,6 +3041,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23440150553",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 21,
+      "name": "Adliswil Ciclismo virtual",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/23448594197",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 5,
+      "name": "Entrenamiento Jueves 02Julio",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23451389602",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5024,6 +5042,15 @@
           "distance": 3150.0,
           "elevation_gain": 0.0,
           "moving_time": 4131.5498046875
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "23451389602"
+          ],
+          "count": 1,
+          "distance": 2600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3423.93994140625
         }
       },
       "TableTennis": {
@@ -5118,6 +5145,15 @@
           "distance": 15232.5,
           "elevation_gain": 72.0,
           "moving_time": 1814.0
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "23448594197"
+          ],
+          "count": 1,
+          "distance": 16496.5,
+          "elevation_gain": 46.0,
+          "moving_time": 1808.0
         }
       },
       "Walk": {
@@ -5587,7 +5623,7 @@
       }
     }
   },
-  "generated_at": "2026-07-02T00:08:33.289146+00:00",
+  "generated_at": "2026-07-02T14:02:56.450152+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
