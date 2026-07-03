@@ -3086,6 +3086,15 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/23459460623",
       "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 6,
+      "name": "Entrenamiento Viernes 03Julio",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23463130344",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5087,6 +5096,15 @@
           "distance": 2600.0,
           "elevation_gain": 0.0,
           "moving_time": 3423.93994140625
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "23463130344"
+          ],
+          "count": 1,
+          "distance": 3100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4477.7587890625
         }
       },
       "TableTennis": {
@@ -5677,7 +5695,7 @@
       }
     }
   },
-  "generated_at": "2026-07-03T00:06:16.760360+00:00",
+  "generated_at": "2026-07-03T14:06:41.873718+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
