@@ -4470,5 +4470,44 @@
     "start_date_local": "2026-07-03T06:01:49",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 12613.9296875,
+    "elevation_gain": 311.0,
+    "id": "23482198450",
+    "moving_time": 2045.0,
+    "name": "Kanuma City Ciclismo virtual",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-04T21:13:23",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 8298.669921875,
+    "elevation_gain": 16.0,
+    "id": "23482236500",
+    "moving_time": 928.0,
+    "name": "Ciclismo virtual",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-04T21:53:43",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 138.61000061035156,
+    "elevation_gain": 0.0,
+    "id": "23487777115",
+    "moving_time": 198.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-07-05T09:43:29",
+    "type": "Swim",
+    "year": 2026
   }
 ]
