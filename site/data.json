@@ -3131,6 +3131,15 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/23504651342",
       "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 5,
+      "name": "Ent. Martes07Julio nataci\u00f3n en",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23508489213",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5150,6 +5159,15 @@
           "distance": 138.61000061035156,
           "elevation_gain": 0.0,
           "moving_time": 198.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "23508489213"
+          ],
+          "count": 1,
+          "distance": 2700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3148.031005859375
         }
       },
       "TableTennis": {
@@ -5759,7 +5777,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T00:08:46.282798+00:00",
+  "generated_at": "2026-07-07T14:36:23.378735+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
