@@ -3149,6 +3149,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23521315208",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 19,
+      "name": "Punta Arenas - EFICIENCIA AER\u00d3BICA",
+      "subtype": "track_running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23529712305",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 6,
+      "name": "Nataci\u00f3n en piscina",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23533509219",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3928,6 +3946,15 @@
           "distance": 800.0,
           "elevation_gain": 0.0,
           "moving_time": 379.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "23529712305"
+          ],
+          "count": 1,
+          "distance": 7610.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3893.901999950409
         }
       },
       "Swim": {
@@ -5186,6 +5213,15 @@
           "distance": 3050.0,
           "elevation_gain": 0.0,
           "moving_time": 4504.31591796875
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "23533509219"
+          ],
+          "count": 1,
+          "distance": 2600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3588.45703125
         }
       },
       "TableTennis": {
@@ -5795,7 +5831,7 @@
       }
     }
   },
-  "generated_at": "2026-07-09T00:11:20.211474+00:00",
+  "generated_at": "2026-07-09T15:11:20.192113+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

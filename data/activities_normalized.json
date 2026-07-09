@@ -4548,5 +4548,31 @@
     "start_date_local": "2026-07-08T06:02:19",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 7610.0,
+    "elevation_gain": 0.0,
+    "id": "23529712305",
+    "moving_time": 3893.901999950409,
+    "name": "Punta Arenas - EFICIENCIA AER\u00d3BICA",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-07-08T19:55:46",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 2600.0,
+    "elevation_gain": 0.0,
+    "id": "23533509219",
+    "moving_time": 3588.45703125,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-07-09T06:02:25",
+    "type": "Swim",
+    "year": 2026
   }
 ]
