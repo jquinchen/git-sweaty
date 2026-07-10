@@ -4574,5 +4574,18 @@
     "start_date_local": "2026-07-09T06:02:25",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23541548906",
+    "moving_time": 1630.7540283203125,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-07-09T19:48:41",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
