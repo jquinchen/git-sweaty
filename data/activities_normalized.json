@@ -4613,5 +4613,31 @@
     "start_date_local": "2026-07-10T21:00:14",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 2399.0400390625,
+    "elevation_gain": 0.0,
+    "id": "23560248082",
+    "moving_time": 2450.0,
+    "name": "Punta Arenas Paddle surf",
+    "raw_activity_type": "stand_up_paddleboarding_v2",
+    "raw_type": "stand_up_paddleboarding_v2",
+    "start_date_local": "2026-07-11T10:42:16",
+    "type": "stand_up_paddleboarding_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 153.8300018310547,
+    "elevation_gain": 0.0,
+    "id": "23560469173",
+    "moving_time": 237.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-07-11T11:59:52",
+    "type": "Swim",
+    "year": 2026
   }
 ]
