@@ -3284,6 +3284,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23628953958",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 15,
+      "name": "Punta Arenas Caminar",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23634225877",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 16,
+      "name": "Club Andino Centro de Ski Snowboard",
+      "subtype": "resort_snowboarding",
+      "type": "resort_snowboarding",
+      "url": "https://connect.garmin.com/modern/activity/23634729315",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5700,6 +5718,15 @@
           "distance": 1016.72998046875,
           "elevation_gain": 19.0,
           "moving_time": 652.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "23634225877"
+          ],
+          "count": 1,
+          "distance": 1641.1199951171875,
+          "elevation_gain": 230.0,
+          "moving_time": 2108.0
         }
       },
       "WeightTraining": {
@@ -5988,6 +6015,15 @@
           "distance": 2574.949951171875,
           "elevation_gain": 241.0,
           "moving_time": 2442.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "23634729315"
+          ],
+          "count": 1,
+          "distance": 1734.1700439453125,
+          "elevation_gain": 83.0,
+          "moving_time": 1182.0
         }
       },
       "stand_up_paddleboarding_v2": {
@@ -6057,7 +6093,7 @@
       }
     }
   },
-  "generated_at": "2026-07-17T19:10:43.528704+00:00",
+  "generated_at": "2026-07-17T23:53:48.831100+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

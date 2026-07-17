@@ -4743,5 +4743,31 @@
     "start_date_local": "2026-07-17T06:00:54",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 1641.1199951171875,
+    "elevation_gain": 230.0,
+    "id": "23634225877",
+    "moving_time": 2108.0,
+    "name": "Punta Arenas Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-17T15:10:23",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 1734.1700439453125,
+    "elevation_gain": 83.0,
+    "id": "23634729315",
+    "moving_time": 1182.0,
+    "name": "Club Andino Centro de Ski Snowboard",
+    "raw_activity_type": "resort_snowboarding",
+    "raw_type": "resort_snowboarding",
+    "start_date_local": "2026-07-17T16:38:24",
+    "type": "resort_snowboarding",
+    "year": 2026
   }
 ]
