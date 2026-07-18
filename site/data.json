@@ -3302,6 +3302,15 @@
       "type": "resort_snowboarding",
       "url": "https://connect.garmin.com/modern/activity/23634729315",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 21,
+      "name": "Nataci\u00f3n en piscina",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23636274280",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5433,12 +5442,13 @@
         },
         "2026-07-17": {
           "activity_ids": [
-            "23628953958"
+            "23628953958",
+            "23636274280"
           ],
-          "count": 1,
-          "distance": 3425.0,
+          "count": 2,
+          "distance": 5050.0,
           "elevation_gain": 0.0,
-          "moving_time": 4635.01513671875
+          "moving_time": 6753.7431640625
         }
       },
       "TableTennis": {
@@ -6093,7 +6103,7 @@
       }
     }
   },
-  "generated_at": "2026-07-17T23:53:48.831100+00:00",
+  "generated_at": "2026-07-18T13:16:34.297101+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
