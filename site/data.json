@@ -3311,6 +3311,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23636274280",
       "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 12,
+      "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23644374503",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5449,6 +5458,15 @@
           "distance": 5050.0,
           "elevation_gain": 0.0,
           "moving_time": 6753.7431640625
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "23644374503"
+          ],
+          "count": 1,
+          "distance": 145.1999969482422,
+          "elevation_gain": 0.0,
+          "moving_time": 228.0
         }
       },
       "TableTennis": {
@@ -6103,7 +6121,7 @@
       }
     }
   },
-  "generated_at": "2026-07-18T13:16:34.297101+00:00",
+  "generated_at": "2026-07-18T19:05:22.173036+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
