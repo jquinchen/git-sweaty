@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:56:12.033605+00:00",
+  "generated_at": "2026-07-21T13:51:48.957644+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -2155,6 +2155,15 @@
           "distance": 1645.1999969482422,
           "elevation_gain": 0.0,
           "moving_time": 2001.008056640625
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "23675274344"
+          ],
+          "count": 1,
+          "distance": 3025.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3893.73388671875
         }
       },
       "TableTennis": {
@@ -2720,6 +2729,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 310.2019958496094
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "23672060659"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 838.2839965820312
         }
       },
       "resort_snowboarding": {

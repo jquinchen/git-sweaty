@@ -4834,5 +4834,31 @@
     "start_date_local": "2026-07-19T14:13:00",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23672060659",
+    "moving_time": 838.2839965820312,
+    "name": "Relajaci\u00f3n y concentraci\u00f3n",
+    "raw_activity_type": "breathwork",
+    "raw_type": "breathwork",
+    "start_date_local": "2026-07-20T23:11:37",
+    "type": "breathwork",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 3025.0,
+    "elevation_gain": 0.0,
+    "id": "23675274344",
+    "moving_time": 3893.73388671875,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-07-21T06:00:21",
+    "type": "Swim",
+    "year": 2026
   }
 ]
