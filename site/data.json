@@ -3387,7 +3387,7 @@
     {
       "date": "2026-07-24",
       "hour": 5,
-      "name": "Nataci\u00f3n en piscina",
+      "name": "Nataci\u00f3n en piscina - Control 1000",
       "subtype": "lap_swimming",
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23712790828",
@@ -6257,7 +6257,7 @@
       }
     }
   },
-  "generated_at": "2026-07-24T13:46:57.135423+00:00",
+  "generated_at": "2026-07-24T19:25:51.882066+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
