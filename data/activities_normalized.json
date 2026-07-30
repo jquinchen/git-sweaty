@@ -4925,5 +4925,18 @@
     "start_date_local": "2026-07-28T19:22:01",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 2866.070068359375,
+    "elevation_gain": 153.0,
+    "id": "23781214442",
+    "moving_time": 2366.0,
+    "name": "Club Andino Centro de Ski Snowboard",
+    "raw_activity_type": "resort_snowboarding",
+    "raw_type": "resort_snowboarding",
+    "start_date_local": "2026-07-29T15:45:57",
+    "type": "resort_snowboarding",
+    "year": 2026
   }
 ]

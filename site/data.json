@@ -3410,6 +3410,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23769395872",
       "year": 2026
+    },
+    {
+      "date": "2026-07-29",
+      "hour": 15,
+      "name": "Club Andino Centro de Ski Snowboard",
+      "subtype": "resort_snowboarding",
+      "type": "resort_snowboarding",
+      "url": "https://connect.garmin.com/modern/activity/23781214442",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6224,6 +6233,15 @@
           "distance": 1734.1700439453125,
           "elevation_gain": 83.0,
           "moving_time": 1182.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "23781214442"
+          ],
+          "count": 1,
+          "distance": 2866.070068359375,
+          "elevation_gain": 153.0,
+          "moving_time": 2366.0
         }
       },
       "stand_up_paddleboarding_v2": {
@@ -6293,7 +6311,7 @@
       }
     }
   },
-  "generated_at": "2026-07-29T19:16:57.785193+00:00",
+  "generated_at": "2026-07-30T00:00:32.136197+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
