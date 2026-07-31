@@ -4938,5 +4938,18 @@
     "start_date_local": "2026-07-29T15:45:57",
     "type": "resort_snowboarding",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 128.1300048828125,
+    "elevation_gain": 0.0,
+    "id": "23794302254",
+    "moving_time": 199.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-07-30T19:10:33",
+    "type": "Swim",
+    "year": 2026
   }
 ]
