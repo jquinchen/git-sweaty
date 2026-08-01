@@ -3446,6 +3446,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23813718890",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 19,
+      "name": "Punta Arenas Multideporte",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/23817499409",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 19,
+      "name": "Yoga",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/23817613408",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6220,6 +6238,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1379.5560302734375
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "23817613408"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 418.36199951171875
         }
       },
       "breathwork": {
@@ -6258,6 +6285,17 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 838.2839965820312
+        }
+      },
+      "multi_sport": {
+        "2026-08-01": {
+          "activity_ids": [
+            "23817499409"
+          ],
+          "count": 1,
+          "distance": 4.289999961853027,
+          "elevation_gain": 0.0,
+          "moving_time": 56.223999977111816
         }
       },
       "resort_snowboarding": {
@@ -6365,7 +6403,7 @@
       }
     }
   },
-  "generated_at": "2026-08-01T19:08:37.998098+00:00",
+  "generated_at": "2026-08-01T23:57:55.851212+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
@@ -6410,6 +6448,10 @@
       "accent": "#ffbe0b",
       "label": "Breathwork"
     },
+    "multi_sport": {
+      "accent": "#ffbe0b",
+      "label": "Multi sport"
+    },
     "resort_snowboarding": {
       "accent": "#ffbe0b",
       "label": "Resort snowboarding"
@@ -6431,7 +6473,8 @@
     "Yoga",
     "stand_up_paddleboarding_v2",
     "breathwork",
-    "resort_snowboarding"
+    "resort_snowboarding",
+    "multi_sport"
   ],
   "units": {
     "distance": "km",

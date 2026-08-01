@@ -4977,5 +4977,31 @@
     "start_date_local": "2026-08-01T11:30:58",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 4.289999961853027,
+    "elevation_gain": 0.0,
+    "id": "23817499409",
+    "moving_time": 56.223999977111816,
+    "name": "Punta Arenas Multideporte",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-01T19:20:14",
+    "type": "multi_sport",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23817613408",
+    "moving_time": 418.36199951171875,
+    "name": "Yoga",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-08-01T19:36:37",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
