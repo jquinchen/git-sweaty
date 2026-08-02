@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:57:55.841684+00:00",
+  "generated_at": "2026-08-02T13:22:22.013298+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -2824,12 +2824,13 @@
       "multi_sport": {
         "2026-08-01": {
           "activity_ids": [
-            "23817499409"
+            "23817499409",
+            "23818156611"
           ],
-          "count": 1,
-          "distance": 4.289999961853027,
-          "elevation_gain": 0.0,
-          "moving_time": 56.223999977111816
+          "count": 2,
+          "distance": 34319.829999961854,
+          "elevation_gain": 44.0,
+          "moving_time": 5886.872999977112
         }
       },
       "resort_snowboarding": {

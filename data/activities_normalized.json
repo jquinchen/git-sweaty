@@ -5003,5 +5003,18 @@
     "start_date_local": "2026-08-01T19:36:37",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 34315.54,
+    "elevation_gain": 44.0,
+    "id": "23818156611",
+    "moving_time": 5830.649,
+    "name": "Punta Arenas Multideporte",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-01T19:45:11",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]
