@@ -3473,6 +3473,15 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/23818156611",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 15,
+      "name": "Punta Arenas Caminar",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23839775398",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6008,6 +6017,15 @@
           "distance": 1641.1199951171875,
           "elevation_gain": 230.0,
           "moving_time": 2108.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "23839775398"
+          ],
+          "count": 1,
+          "distance": 774.6199951171875,
+          "elevation_gain": 107.0,
+          "moving_time": 993.0
         }
       },
       "WeightTraining": {
@@ -6413,7 +6431,7 @@
       }
     }
   },
-  "generated_at": "2026-08-03T14:40:03.100739+00:00",
+  "generated_at": "2026-08-03T19:38:07.881367+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
