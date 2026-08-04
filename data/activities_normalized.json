@@ -5042,5 +5042,18 @@
     "start_date_local": "2026-08-03T15:34:57",
     "type": "resort_snowboarding",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 2725.0,
+    "elevation_gain": 0.0,
+    "id": "23846620979",
+    "moving_time": 3678.736083984375,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-08-04T06:01:17",
+    "type": "Swim",
+    "year": 2026
   }
 ]
