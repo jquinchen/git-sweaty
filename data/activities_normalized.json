@@ -5029,5 +5029,18 @@
     "start_date_local": "2026-08-03T15:04:37",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 2393.840087890625,
+    "elevation_gain": 85.0,
+    "id": "23840711070",
+    "moving_time": 1900.0,
+    "name": "Club Andino Centro de Ski Snowboard",
+    "raw_activity_type": "resort_snowboarding",
+    "raw_type": "resort_snowboarding",
+    "start_date_local": "2026-08-03T15:34:57",
+    "type": "resort_snowboarding",
+    "year": 2026
   }
 ]
