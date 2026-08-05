@@ -5055,5 +5055,18 @@
     "start_date_local": "2026-08-04T06:01:17",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 3269.780029296875,
+    "elevation_gain": 33.0,
+    "id": "23854963322",
+    "moving_time": 2709.614013671875,
+    "name": "Natales Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-04T17:54:23",
+    "type": "Walk",
+    "year": 2026
   }
 ]
