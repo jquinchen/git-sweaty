@@ -3509,6 +3509,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/23854963322",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 18,
+      "name": "Lago Argentino Nataci\u00f3n en aguas abiertas",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23867901190",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5756,6 +5765,15 @@
           "distance": 2725.0,
           "elevation_gain": 0.0,
           "moving_time": 3678.736083984375
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "23867901190"
+          ],
+          "count": 1,
+          "distance": 206.8800048828125,
+          "elevation_gain": 0.0,
+          "moving_time": 294.0
         }
       },
       "TableTennis": {
@@ -6485,7 +6503,7 @@
       }
     }
   },
-  "generated_at": "2026-08-05T19:35:29.276347+00:00",
+  "generated_at": "2026-08-06T00:00:21.848649+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
