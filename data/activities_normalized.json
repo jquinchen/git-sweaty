@@ -5081,5 +5081,18 @@
     "start_date_local": "2026-08-05T18:42:05",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 8003.4501953125,
+    "elevation_gain": 24.0,
+    "id": "23892554988",
+    "moving_time": 3973.7259826660156,
+    "name": "Lago Argentino Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-07T19:01:42",
+    "type": "Run",
+    "year": 2026
   }
 ]
