@@ -5107,5 +5107,18 @@
     "start_date_local": "2026-08-10T11:17:15",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 2150.0,
+    "elevation_gain": 0.0,
+    "id": "23933749720",
+    "moving_time": 3121.951904296875,
+    "name": "Entrenamiento Piscina - Mar 12/0",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-08-11T06:01:47",
+    "type": "Swim",
+    "year": 2026
   }
 ]
