@@ -3554,6 +3554,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23942895840",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 6,
+      "name": "Mie 12/08 - Entrenamiento en pis",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23947559641",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5846,6 +5855,15 @@
           "distance": 2150.0,
           "elevation_gain": 0.0,
           "moving_time": 3121.951904296875
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "23947559641"
+          ],
+          "count": 1,
+          "distance": 3300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4589.7939453125
         }
       },
       "TableTennis": {
@@ -6575,7 +6593,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T23:40:37.519155+00:00",
+  "generated_at": "2026-08-12T13:10:11.541410+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
