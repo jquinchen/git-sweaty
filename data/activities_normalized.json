@@ -5159,5 +5159,18 @@
     "start_date_local": "2026-08-12T18:41:16",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 2625.0,
+    "elevation_gain": 0.0,
+    "id": "23960232108",
+    "moving_time": 3258.49609375,
+    "name": "Jue 13/08 - Entrenamiento en pis",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-08-13T06:04:18",
+    "type": "Swim",
+    "year": 2026
   }
 ]
