@@ -5211,5 +5211,18 @@
     "start_date_local": "2026-08-14T21:04:42",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 10227.6298828125,
+    "elevation_gain": 17.0,
+    "id": "24000109671",
+    "moving_time": 4638.0,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-16T10:49:27",
+    "type": "Run",
+    "year": 2026
   }
 ]
