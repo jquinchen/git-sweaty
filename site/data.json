@@ -3626,6 +3626,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24003546914",
       "year": 2026
+    },
+    {
+      "date": "2026-08-17",
+      "hour": 19,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24016006486",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6345,6 +6354,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1630.7540283203125
+        },
+        "2026-08-17": {
+          "activity_ids": [
+            "24016006486"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2496.45703125
         }
       },
       "Yoga": {
@@ -6703,7 +6721,7 @@
       }
     }
   },
-  "generated_at": "2026-08-17T18:39:25.892355+00:00",
+  "generated_at": "2026-08-17T23:23:05.938829+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
