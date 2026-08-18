@@ -5263,5 +5263,18 @@
     "start_date_local": "2026-08-18T06:00:34",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 23000.0,
+    "elevation_gain": 0.0,
+    "id": "24024188928",
+    "moving_time": 4135.43994140625,
+    "name": "15x (1'Z5+2'Z1) (FC)",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-18T11:04:56",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
