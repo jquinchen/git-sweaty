@@ -5276,5 +5276,31 @@
     "start_date_local": "2026-08-18T11:04:56",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 5133.739990234375,
+    "elevation_gain": 8.0,
+    "id": "24029627406",
+    "moving_time": 2750.8779296875,
+    "name": "Carrera + Carrera en pista",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-18T19:36:07",
+    "type": "multi_sport",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 2975.0,
+    "elevation_gain": 0.0,
+    "id": "24033939415",
+    "moving_time": 3837.178955078125,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-08-19T06:01:42",
+    "type": "Swim",
+    "year": 2026
   }
 ]
