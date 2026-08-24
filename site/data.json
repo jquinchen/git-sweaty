@@ -3725,6 +3725,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24086177814",
       "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 18,
+      "name": "Tempo T\u00e9cnica pedaleo 65/75 RPM",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24103137839",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 19,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24103367782",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6268,6 +6286,15 @@
           "distance": 23000.0,
           "elevation_gain": 0.0,
           "moving_time": 4135.43994140625
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "24103137839"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3623.282958984375
         }
       },
       "Walk": {
@@ -6526,6 +6553,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2496.45703125
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "24103367782"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 720.52197265625
         }
       },
       "Yoga": {
@@ -6893,7 +6929,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T18:40:22.524109+00:00",
+  "generated_at": "2026-08-24T23:22:46.614901+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

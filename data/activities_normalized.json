@@ -5380,5 +5380,31 @@
     "start_date_local": "2026-08-23T10:00:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24103137839",
+    "moving_time": 3623.282958984375,
+    "name": "Tempo T\u00e9cnica pedaleo 65/75 RPM",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-24T18:44:21",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24103367782",
+    "moving_time": 720.52197265625,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-08-24T19:46:00",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
