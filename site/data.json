@@ -3743,6 +3743,15 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/24103367782",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 6,
+      "name": "Nataci\u00f3n en piscina - Control 1500",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/24107696949",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6137,6 +6146,15 @@
           "distance": 4650.0,
           "elevation_gain": 0.0,
           "moving_time": 6084.3228759765625
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "24107696949"
+          ],
+          "count": 1,
+          "distance": 1625.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2071.81396484375
         }
       },
       "TableTennis": {
@@ -6929,7 +6947,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T23:22:46.614901+00:00",
+  "generated_at": "2026-08-25T12:48:02.226279+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

@@ -5406,5 +5406,18 @@
     "start_date_local": "2026-08-24T19:46:00",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 1625.0,
+    "elevation_gain": 0.0,
+    "id": "24107696949",
+    "moving_time": 2071.81396484375,
+    "name": "Nataci\u00f3n en piscina - Control 1500",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-08-25T06:37:20",
+    "type": "Swim",
+    "year": 2026
   }
 ]
