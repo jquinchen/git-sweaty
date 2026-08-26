@@ -5419,5 +5419,18 @@
     "start_date_local": "2026-08-25T06:37:20",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 5020.0,
+    "elevation_gain": 0.0,
+    "id": "24116977341",
+    "moving_time": 2330.237991333008,
+    "name": "Punta Arenas Entrenamiento en pista",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-08-25T19:34:35",
+    "type": "Run",
+    "year": 2026
   }
 ]
