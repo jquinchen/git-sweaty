@@ -3797,6 +3797,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24146400607",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 18,
+      "name": "Subida Vo2max (FC)",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24153454412",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6394,6 +6403,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3623.282958984375
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "24153454412"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5458.72802734375
         }
       },
       "Walk": {
@@ -7037,7 +7055,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T21:46:35.133982+00:00",
+  "generated_at": "2026-08-29T04:02:24.532419+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
