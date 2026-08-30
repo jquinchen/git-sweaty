@@ -5497,5 +5497,18 @@
     "start_date_local": "2026-08-28T18:19:54",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 10973.9404296875,
+    "elevation_gain": 28.0,
+    "id": "24174103623",
+    "moving_time": 4748.0,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-30T10:39:11",
+    "type": "Run",
+    "year": 2026
   }
 ]
