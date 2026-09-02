@@ -5562,5 +5562,18 @@
     "start_date_local": "2026-09-01T15:37:23",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 4820.0,
+    "elevation_gain": 0.0,
+    "id": "24203587503",
+    "moving_time": 2226.558006286621,
+    "name": "Punta Arenas Entrenamiento en pista",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-09-01T19:32:52",
+    "type": "Run",
+    "year": 2026
   }
 ]
