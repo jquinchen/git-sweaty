@@ -3896,6 +3896,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24233161795",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 10,
+      "name": "Punta Arenas Ciclismo",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24248340835",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4511,6 +4520,17 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3834.923095703125
+        }
+      },
+      "Ride": {
+        "2026-09-05": {
+          "activity_ids": [
+            "24248340835"
+          ],
+          "count": 1,
+          "distance": 16816.16015625,
+          "elevation_gain": 76.0,
+          "moving_time": 3228.0
         }
       },
       "Run": {
@@ -7235,7 +7255,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T14:43:48.633804+00:00",
+  "generated_at": "2026-09-05T20:00:56.492984+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
