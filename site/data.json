@@ -3990,10 +3990,19 @@
     {
       "date": "2026-09-13",
       "hour": 10,
-      "name": "Punta Arenas Carrera",
+      "name": "Punta Arenas Carrera - Desaf\u00edo Y-620",
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24349117303",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 6,
+      "name": "Nataci\u00f3n en piscina",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/24368109133",
       "year": 2026
     }
   ],
@@ -6589,6 +6598,15 @@
           "distance": 3025.0,
           "elevation_gain": 0.0,
           "moving_time": 3989.924072265625
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "24368109133"
+          ],
+          "count": 1,
+          "distance": 2650.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3667.672119140625
         }
       },
       "TableTennis": {
@@ -7435,7 +7453,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T01:12:48.955740+00:00",
+  "generated_at": "2026-09-15T16:26:36.584489+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
