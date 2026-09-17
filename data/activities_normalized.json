@@ -5822,5 +5822,18 @@
     "start_date_local": "2026-09-17T06:01:19",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 12006.3095703125,
+    "elevation_gain": 51.0,
+    "id": "24400787219",
+    "moving_time": 5312.15998840332,
+    "name": "Punta Arenas - 2x500 VO2max + 4x1000 UA",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-17T15:46:14",
+    "type": "Run",
+    "year": 2026
   }
 ]

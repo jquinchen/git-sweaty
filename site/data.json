@@ -4031,6 +4031,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24393966129",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 15,
+      "name": "Punta Arenas - 2x500 VO2max + 4x1000 UA",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24400787219",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5047,6 +5056,15 @@
           "distance": 4560.0,
           "elevation_gain": 0.0,
           "moving_time": 2062.102005004883
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "24400787219"
+          ],
+          "count": 1,
+          "distance": 12006.3095703125,
+          "elevation_gain": 51.0,
+          "moving_time": 5312.15998840332
         }
       },
       "Swim": {
@@ -7507,7 +7525,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T16:24:46.141066+00:00",
+  "generated_at": "2026-09-17T21:01:05.804394+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
