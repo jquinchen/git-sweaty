@@ -5835,5 +5835,18 @@
     "start_date_local": "2026-09-17T15:46:14",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24449484777",
+    "moving_time": 3641.47900390625,
+    "name": "Base Aerobica 90/100 RPM (fc)",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-09-21T19:02:43",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
