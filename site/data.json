@@ -4175,6 +4175,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24583694524",
       "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 11,
+      "name": "Punta Arenas Carrera",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24591509856",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5254,6 +5263,15 @@
           "distance": 4410.0,
           "elevation_gain": 0.0,
           "moving_time": 1922.8150024414062
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "24591509856"
+          ],
+          "count": 1,
+          "distance": 4464.75,
+          "elevation_gain": 16.0,
+          "moving_time": 2037.0
         }
       },
       "Swim": {
@@ -7787,7 +7805,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T01:46:05.291518+00:00",
+  "generated_at": "2026-10-03T15:50:26.616083+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
