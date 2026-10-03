@@ -6017,5 +6017,18 @@
     "start_date_local": "2026-10-02T15:11:17",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24583694524",
+    "moving_time": 7815.85302734375,
+    "name": "3h Base aerobica + 4x15' Umbral",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-10-02T18:17:32",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
