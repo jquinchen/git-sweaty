@@ -6108,5 +6108,18 @@
     "start_date_local": "2026-10-07T19:35:34",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 1850.0,
+    "elevation_gain": 0.0,
+    "id": "24649555786",
+    "moving_time": 2630.339111328125,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-10-08T06:01:00",
+    "type": "Swim",
+    "year": 2026
   }
 ]
