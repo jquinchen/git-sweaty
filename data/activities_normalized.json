@@ -6082,5 +6082,31 @@
     "start_date_local": "2026-10-07T06:03:52",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24645535218",
+    "moving_time": 2968.77490234375,
+    "name": "BASE AEROBICA/NEUROMUSCULAR (FC)",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-10-07T18:45:24",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24645765040",
+    "moving_time": 1076.571044921875,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-07T19:35:34",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

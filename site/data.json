@@ -4211,6 +4211,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24637742857",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 18,
+      "name": "BASE AEROBICA/NEUROMUSCULAR (FC)",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24645535218",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 19,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24645765040",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7180,6 +7198,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7815.85302734375
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "24645535218"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2968.77490234375
         }
       },
       "Walk": {
@@ -7492,6 +7519,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 998.3159790039062
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "24645765040"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1076.571044921875
         }
       },
       "Yoga": {
@@ -7859,7 +7895,7 @@
       }
     }
   },
-  "generated_at": "2026-10-07T18:33:11.471966+00:00",
+  "generated_at": "2026-10-08T02:34:38.120010+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
