@@ -4247,6 +4247,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24657511003",
       "year": 2026
+    },
+    {
+      "date": "2026-10-09",
+      "hour": 6,
+      "name": "Nataci\u00f3n en piscina",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/24661161867",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7040,6 +7049,15 @@
           "distance": 1850.0,
           "elevation_gain": 0.0,
           "moving_time": 2630.339111328125
+        },
+        "2026-10-09": {
+          "activity_ids": [
+            "24661161867"
+          ],
+          "count": 1,
+          "distance": 3000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3837.39111328125
         }
       },
       "TableTennis": {
@@ -7931,7 +7949,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T02:48:54.610072+00:00",
+  "generated_at": "2026-10-09T18:03:33.288210+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
