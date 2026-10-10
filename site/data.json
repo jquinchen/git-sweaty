@@ -4256,6 +4256,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24661161867",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 8,
+      "name": "Punta Arenas Multideporte",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/24674306658",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7833,6 +7842,15 @@
           "distance": 5133.739990234375,
           "elevation_gain": 8.0,
           "moving_time": 2750.8779296875
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "24674306658"
+          ],
+          "count": 1,
+          "distance": 28788.279160499573,
+          "elevation_gain": 93.0,
+          "moving_time": 5807.476055145264
         }
       },
       "resort_snowboarding": {
@@ -7949,7 +7967,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T02:08:56.827224+00:00",
+  "generated_at": "2026-10-10T17:03:13.471165+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
