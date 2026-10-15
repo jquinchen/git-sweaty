@@ -6212,5 +6212,18 @@
     "start_date_local": "2026-10-14T19:10:10",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 1925.0,
+    "elevation_gain": 0.0,
+    "id": "24731397352",
+    "moving_time": 2995.403076171875,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-10-15T06:01:47",
+    "type": "Swim",
+    "year": 2026
   }
 ]
