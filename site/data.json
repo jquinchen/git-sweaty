@@ -4337,6 +4337,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24743308792",
       "year": 2026
+    },
+    {
+      "date": "2026-10-16",
+      "hour": 18,
+      "name": "Punta Arenas Paddle surf",
+      "subtype": "stand_up_paddleboarding_v2",
+      "type": "stand_up_paddleboarding_v2",
+      "url": "https://connect.garmin.com/modern/activity/24749626733",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8099,11 +8108,20 @@
           "distance": 2399.0400390625,
           "elevation_gain": 0.0,
           "moving_time": 2450.0
+        },
+        "2026-10-16": {
+          "activity_ids": [
+            "24749626733"
+          ],
+          "count": 1,
+          "distance": 399.3299865722656,
+          "elevation_gain": 0.0,
+          "moving_time": 395.0
         }
       }
     }
   },
-  "generated_at": "2026-10-16T20:35:39.096321+00:00",
+  "generated_at": "2026-10-17T01:07:26.354780+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

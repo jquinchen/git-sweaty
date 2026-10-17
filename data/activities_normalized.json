@@ -6264,5 +6264,18 @@
     "start_date_local": "2026-10-16T06:03:48",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 399.3299865722656,
+    "elevation_gain": 0.0,
+    "id": "24749626733",
+    "moving_time": 395.0,
+    "name": "Punta Arenas Paddle surf",
+    "raw_activity_type": "stand_up_paddleboarding_v2",
+    "raw_type": "stand_up_paddleboarding_v2",
+    "start_date_local": "2026-10-16T18:15:00",
+    "type": "stand_up_paddleboarding_v2",
+    "year": 2026
   }
 ]
