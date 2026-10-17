@@ -6277,5 +6277,31 @@
     "start_date_local": "2026-10-16T18:15:00",
     "type": "stand_up_paddleboarding_v2",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 30106.779296875,
+    "elevation_gain": 134.0,
+    "id": "24756155873",
+    "moving_time": 5277.432067871094,
+    "name": "Punta Arenas Ciclismo",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-17T08:22:09",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 5043.64013671875,
+    "elevation_gain": 14.0,
+    "id": "24756630456",
+    "moving_time": 2068.0,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-17T09:55:15",
+    "type": "Run",
+    "year": 2026
   }
 ]
