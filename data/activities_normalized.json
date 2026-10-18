@@ -6303,5 +6303,18 @@
     "start_date_local": "2026-10-17T09:55:15",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 10015.33984375,
+    "elevation_gain": 21.0,
+    "id": "24769481742",
+    "moving_time": 4672.0,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-18T10:39:37",
+    "type": "Run",
+    "year": 2026
   }
 ]
