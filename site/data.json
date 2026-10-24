@@ -4436,6 +4436,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24827089610",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 10,
+      "name": "Punta Arenas Caminar",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24836227934",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 11,
+      "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/24836943805",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7384,6 +7402,15 @@
           "distance": 505.9800109863281,
           "elevation_gain": 0.0,
           "moving_time": 733.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "24836943805"
+          ],
+          "count": 1,
+          "distance": 631.989990234375,
+          "elevation_gain": 0.0,
+          "moving_time": 920.0
         }
       },
       "TableTennis": {
@@ -7780,6 +7807,15 @@
           "distance": 2018.75,
           "elevation_gain": 33.0,
           "moving_time": 1798.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "24836227934"
+          ],
+          "count": 1,
+          "distance": 2236.6201171875,
+          "elevation_gain": 5.0,
+          "moving_time": 1806.0
         }
       },
       "WeightTraining": {
@@ -8293,7 +8329,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T01:23:45.318837+00:00",
+  "generated_at": "2026-10-24T15:30:36.317630+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

@@ -6407,5 +6407,31 @@
     "start_date_local": "2026-10-23T13:08:48",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 2236.6201171875,
+    "elevation_gain": 5.0,
+    "id": "24836227934",
+    "moving_time": 1806.0,
+    "name": "Punta Arenas Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-24T10:11:20",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 631.989990234375,
+    "elevation_gain": 0.0,
+    "id": "24836943805",
+    "moving_time": 920.0,
+    "name": "Punta Arenas Nataci\u00f3n en aguas abiertas",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-10-24T11:16:17",
+    "type": "Swim",
+    "year": 2026
   }
 ]
