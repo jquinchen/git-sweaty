@@ -6433,5 +6433,18 @@
     "start_date_local": "2026-10-24T11:16:17",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 23239.759765625,
+    "elevation_gain": 62.0,
+    "id": "24848160040",
+    "moving_time": 4889.0,
+    "name": "Punta Arenas Ciclismo",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-25T10:05:01",
+    "type": "Ride",
+    "year": 2026
   }
 ]
