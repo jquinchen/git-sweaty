@@ -6485,5 +6485,18 @@
     "start_date_local": "2026-10-27T19:34:53",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 3375.0,
+    "elevation_gain": 0.0,
+    "id": "24879533604",
+    "moving_time": 4288.93505859375,
+    "name": "Mie28Oct - Entrenamiento Piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-10-28T06:01:36",
+    "type": "Swim",
+    "year": 2026
   }
 ]
