@@ -6524,5 +6524,31 @@
     "start_date_local": "2026-10-30T05:57:35",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 7544.0400390625,
+    "elevation_gain": 31.0,
+    "id": "24933914749",
+    "moving_time": 3204.8890113830566,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-01T18:22:14",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24934071381",
+    "moving_time": 805.843017578125,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-01T19:23:52",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
