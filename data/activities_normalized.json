@@ -6550,5 +6550,31 @@
     "start_date_local": "2026-11-01T19:23:52",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 800.0,
+    "elevation_gain": 0.0,
+    "id": "24948951198",
+    "moving_time": 1023.06201171875,
+    "name": "Nataci\u00f3n en piscina",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-11-03T06:05:10",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 3275.0,
+    "elevation_gain": 0.0,
+    "id": "24949737431",
+    "moving_time": 4044.866943359375,
+    "name": "Nataci\u00f3n en piscina - Control 8x400",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-11-03T06:29:12",
+    "type": "Swim",
+    "year": 2026
   }
 ]
