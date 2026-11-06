@@ -6615,5 +6615,18 @@
     "start_date_local": "2026-11-05T19:12:54",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 3150.0,
+    "elevation_gain": 0.0,
+    "id": "24984733770",
+    "moving_time": 4109.787109375,
+    "name": "Vie06Nov - Entrenamiento de nata",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-11-06T06:03:53",
+    "type": "Swim",
+    "year": 2026
   }
 ]
