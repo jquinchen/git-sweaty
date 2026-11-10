@@ -4598,6 +4598,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/25010070996",
       "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 6,
+      "name": "Mar10Nov - Entrenamiento de nata",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/25028826348",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7682,6 +7691,15 @@
           "distance": 3150.0,
           "elevation_gain": 0.0,
           "moving_time": 4109.787109375
+        },
+        "2026-11-10": {
+          "activity_ids": [
+            "25028826348"
+          ],
+          "count": 1,
+          "distance": 2200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2656.1279296875
         }
       },
       "TableTennis": {
@@ -8609,7 +8627,7 @@
       }
     }
   },
-  "generated_at": "2026-11-10T04:30:01.908291+00:00",
+  "generated_at": "2026-11-10T19:24:47.890367+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
