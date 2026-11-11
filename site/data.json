@@ -4607,6 +4607,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/25028826348",
       "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 19,
+      "name": "Punta Arenas Entrenamiento en pista",
+      "subtype": "track_running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/25037154945",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5857,6 +5866,15 @@
           "distance": 10771.8798828125,
           "elevation_gain": 317.0,
           "moving_time": 4927.9580001831055
+        },
+        "2026-11-10": {
+          "activity_ids": [
+            "25037154945"
+          ],
+          "count": 1,
+          "distance": 2740.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1062.555004119873
         }
       },
       "Swim": {
@@ -8627,7 +8645,7 @@
       }
     }
   },
-  "generated_at": "2026-11-10T19:24:47.890367+00:00",
+  "generated_at": "2026-11-11T02:33:50.928283+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
