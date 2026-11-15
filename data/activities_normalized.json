@@ -6745,5 +6745,18 @@
     "start_date_local": "2026-11-14T12:00:38",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 62.18000030517578,
+    "elevation_gain": 0.0,
+    "id": "25080943498",
+    "moving_time": 72.0,
+    "name": "Punta Arenas Tiro con arco",
+    "raw_activity_type": "archery",
+    "raw_type": "archery",
+    "start_date_local": "2026-11-14T17:59:20",
+    "type": "archery",
+    "year": 2026
   }
 ]
