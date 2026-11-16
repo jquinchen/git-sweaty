@@ -6758,5 +6758,18 @@
     "start_date_local": "2026-11-14T17:59:20",
     "type": "archery",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 21275.94921875,
+    "elevation_gain": 75.0,
+    "id": "25092360010",
+    "moving_time": 9911.517036437988,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-15T17:44:31",
+    "type": "Run",
+    "year": 2026
   }
 ]
