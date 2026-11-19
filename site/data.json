@@ -4697,6 +4697,33 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/25113890265",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 7,
+      "name": "Punta Arenas Carrera",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/25129324612",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 8,
+      "name": "Punta Arenas Caminar",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/25129985108",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 9,
+      "name": "Ciclismo en sala",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/25131012798",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5974,6 +6001,15 @@
           "distance": 21275.94921875,
           "elevation_gain": 75.0,
           "moving_time": 9911.517036437988
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "25129324612"
+          ],
+          "count": 1,
+          "distance": 8172.72998046875,
+          "elevation_gain": 11.0,
+          "moving_time": 3148.520004272461
         }
       },
       "Swim": {
@@ -8074,6 +8110,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2628.179931640625
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "25131012798"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4192.10791015625
         }
       },
       "Walk": {
@@ -8276,6 +8321,15 @@
           "distance": 2236.6201171875,
           "elevation_gain": 5.0,
           "moving_time": 1806.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "25129985108"
+          ],
+          "count": 1,
+          "distance": 2883.320068359375,
+          "elevation_gain": 35.0,
+          "moving_time": 2071.0
         }
       },
       "WeightTraining": {
@@ -8809,7 +8863,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T03:59:30.336465+00:00",
+  "generated_at": "2026-11-19T20:03:26.347795+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",

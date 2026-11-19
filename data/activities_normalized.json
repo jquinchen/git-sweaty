@@ -6784,5 +6784,44 @@
     "start_date_local": "2026-11-17T18:53:55",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 8172.72998046875,
+    "elevation_gain": 11.0,
+    "id": "25129324612",
+    "moving_time": 3148.520004272461,
+    "name": "Punta Arenas Carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-19T07:05:15",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 2883.320068359375,
+    "elevation_gain": 35.0,
+    "id": "25129985108",
+    "moving_time": 2071.0,
+    "name": "Punta Arenas Caminar",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-19T08:17:36",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25131012798",
+    "moving_time": 4192.10791015625,
+    "name": "Ciclismo en sala",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-11-19T09:33:52",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
