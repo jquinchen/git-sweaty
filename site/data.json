@@ -4832,6 +4832,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/25210960363",
       "year": 2026
+    },
+    {
+      "date": "2026-11-27",
+      "hour": 6,
+      "name": "Nataci\u00f3n en piscina - Control 100mts",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/25213647980",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8089,6 +8098,15 @@
           "distance": 2100.0,
           "elevation_gain": 0.0,
           "moving_time": 2748.215087890625
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "25213647980"
+          ],
+          "count": 1,
+          "distance": 1300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1616.4949951171875
         }
       },
       "TableTennis": {
@@ -9063,7 +9081,7 @@
       }
     }
   },
-  "generated_at": "2026-11-27T04:49:16.665530+00:00",
+  "generated_at": "2026-11-27T20:46:01.963945+00:00",
   "other_bucket": "OtherSports",
   "repo": "jquinchen/git-sweaty",
   "source": "garmin",
